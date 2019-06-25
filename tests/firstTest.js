@@ -10,6 +10,6 @@ module.exports = {
         .waitForElementVisible('input[name=btnK]', 2000)
         .click('input[name=btnK]')
         .pause(4000)
-        .end()
+        .end() 
     }
 }
