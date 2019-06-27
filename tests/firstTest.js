@@ -9,7 +9,7 @@ module.exports = {
         //.click('input[type=text]')
         .waitForElementVisible('input[name=btnK]', 2000)
         .click('input[name=btnK]')
-        .pause(4000)
+        .pause(5000)
         .end() 
     }
 }
