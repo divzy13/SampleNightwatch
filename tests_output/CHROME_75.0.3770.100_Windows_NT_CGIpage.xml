@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites errors="0"
-            failures="1"
+            failures="0"
             tests="1">
 
   <testsuite name="CGIpage"
-    errors="0" failures="1" hostname="" id="" package="CGIpage" skipped="0"
-    tests="1" time="4.068" timestamp="">
+    errors="0" failures="0" hostname="" id="" package="CGIpage" skipped="0"
+    tests="1" time="6.155" timestamp="">
   
-    <testcase name="CGI Web page" classname="CGIpage" time="4.068" assertions="1">  <failure message="Timed out while waiting for element &lt;a:contains(Services)&gt; to be present for 1000 milliseconds. - expected [0;32m&#34;visible&#34;[0m but got: [0;31m&#34;not found&#34;[0m">    at Object.CGI Web page (C:\Users\divv1\NightwatchSelenium\tests\CGIpage.js:5:10)
-    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    <testcase name="CGI Web page" classname="CGIpage" time="6.155" assertions="1">
 
-    <failure message="    at Object.CGI Web page (C:\Users\divv1\NightwatchSelenium\tests\CGIpage.js:5:10)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    
     </testcase>
   
 
