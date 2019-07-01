@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="SeleniumDemo"
+    errors="0" failures="0" hostname="" id="" package="SeleniumDemo" skipped="0"
+    tests="1" time="30.12" timestamp="">
+  
+    <testcase name="Selenium Demo page" classname="SeleniumDemo" time="30.12" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
